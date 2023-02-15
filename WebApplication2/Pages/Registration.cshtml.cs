@@ -81,8 +81,7 @@ namespace WebApplication2.Pages
                 else
                 {
                     // Check the data in the database
-                    // Redirect to the login page
-
+                    
                     try
                     {
                         string connectionString = "Data Source=DESKTOP-5F3V7L1;Initial Catalog=WebApplication2;Integrated Security=True";
